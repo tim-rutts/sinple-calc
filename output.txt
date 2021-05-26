@@ -1,0 +1,5 @@
+11
+error: incorrect format. (examples 'add 1 2' or 'mul 1 2 add 1' (without quotes))
+36
+30
+6
